@@ -48,7 +48,7 @@ export default function HeroSection() {
             variants={item}
             className="text-4xl md:text-5xl font-bold text-lime-400 leading-tight mb-6"
           >
-            Frontend Developer
+            Full-Stack Web Developer
           </motion.h2>
 
           <motion.p variants={item} className="text-gray-400 text-lg max-w-md mb-8">
