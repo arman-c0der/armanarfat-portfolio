@@ -5,24 +5,24 @@ import SectionHeader from './SectionHeader';
 
 const reasons = [
 	{
-		title: 'Performance-First Builds',
-		description: 'Every project ships optimized — lean bundles, fast loads, and smooth interactions that keep users around.',
+		title: 'Built Around Your Business Goals',
+		description: 'Every website is designed around your business needs — helping customers discover your services, understand your value, and take the next step.',
 	},
 	{
-		title: 'Responsive by Default',
-		description: 'Your site will look and work beautifully on every screen size, from small phones to wide desktops.',
+		title: 'Turn Visitors Into Customers',
+		description: 'Clear navigation, engaging layouts, and strategic calls to action make it easier for visitors to explore your offerings, make reservations, or get in touch..',
 	},
 	{
-		title: 'Clean, Maintainable Code',
-		description: 'Readable, well-structured code that is easy to extend — for you, or for any developer who picks it up next.',
+		title: 'Build Trust From the First Click',
+		description: 'A professional online presence helps your business make a strong first impression, showcase what makes you different, and give potential customers more confidence.',
 	},
 	{
-		title: 'Clear Communication',
-		description: 'Regular updates, honest timelines, and plain-language answers. You will never wonder where things stand.',
+		title: 'Ready to Grow With Your Business',
+		description: 'From new services and features to more advanced functionality, your website can evolve as your business needs change.',
 	},
 	{
-		title: 'Reliable Delivery',
-		description: 'Deadlines matter. I plan carefully, flag risks early, and deliver what was promised, when it was promised.',
+		title: 'A Long-Term Development Partner',
+		description: 'Your business doesn\'t stand still, and your website shouldn\'t either. I focus on clear communication, reliable support, and practical improvements as your needs evolve.',
 	},
 ];
 

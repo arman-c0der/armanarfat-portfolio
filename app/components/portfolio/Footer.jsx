@@ -1,7 +1,7 @@
 'use client'
 import React from 'react';
 import { Mail } from 'lucide-react';
-import { FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from 'react-icons/fa';
 
 const nav = [
 	{ label: 'Home', href: '#home' },
@@ -14,7 +14,8 @@ const nav = [
 const socials = [
 	{ label: 'GitHub (placeholder)', href: 'https://github.com/arman-c0der', icon: FaGithub },
 	{ label: 'LinkedIn (placeholder)', href: 'https://www.linkedin.com/in/arman-c0der/', icon: FaLinkedin },
-	{ label: 'Twitter (placeholder)', href: 'https://twitter.com/', icon: FaTwitter },
+	
+	{ label: 'Instagram (placeholder)', href: 'https://www.instagram.com/arman.arfat24/', icon: FaInstagram },
 	{ label: 'Email Arman', href: 'arman.arfat24@gmail.com', icon: Mail },
 ];
 
@@ -29,8 +30,8 @@ export default function Footer() {
 							<span className="text-primary">~/</span>arman.arfat
 						</p>
 						<p className="mt-4 max-w-sm text-sm leading-relaxed text-muted-foreground">
-							Frontend developer building modern, responsive, high-performance websites and web applications for
-							clients worldwide.
+						Full Stack Web Developer building modern, responsive, and high-performance websites and web applications with seamless user experiences, secure backend systems, and scalable solutions for clients worldwide.
+
 						</p>
 					</div>
 					<nav aria-label="Footer">
