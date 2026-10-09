@@ -6,10 +6,19 @@ import SectionHeader from './SectionHeader';
 
 const projects = [
 		{
+		title: 'UK Dining',
+		url: 'https://uk-dining.vercel.app/',
+		description:
+			'A modern, full-stack restaurant website built with Next.js, React, Tailwind CSS, MongoDB, NextAuth, and Cloudinary, designed to deliver a seamless online dining experience. Customers can explore the menu by category, view detailed food information, and book tables through an integrated reservation system. The website also features a secure admin dashboard for managing menu items, categories, reservations, and other restaurant content.'
+,
+		tags: ['Next.js', 'Tailwind CSS', 'MongoDB', 'NextAuth','React','Cloudinary'],
+		image: 'project/ukdining.png',
+	},
+		{
 		title: 'Restaurant website',
 		url: 'https://restaurant-website-nine-gilt.vercel.app/',
 		description:
-			'A modern, full-stack restaurant website built with Next.js, React, Tailwind CSS, MongoDB, and NextAuth, designed to provide a seamless and engaging online dining experience.Customers can explore the complete menu by category, view detailed food information, add items to their cart, manage orders, make table reservations, and securely authenticate using email/password or Google. The website also includes a powerful admin dashboard for managing products, categories, users, orders, reservations, and other restaurant operations.'
+			'A modern, full-stack restaurant website built with Next.js, React, Tailwind CSS, MongoDB, and NextAuth, designed to provide a seamless and engaging online dining experience.Customers can explore the complete menu by category, view detailed food information, add items to their cart, manage orders,  securely authenticate using email/password or Google. The website also includes a powerful admin dashboard for managing products, categories, users, orders, reservations, and other restaurant operations.'
 ,
 		tags: ['Next.js', 'Tailwind CSS', 'MongoDB', 'NextAuth', '', 'Resend', 'React','Cloudinary'],
 		image: 'project/restaurant.png',

@@ -29,7 +29,7 @@ export default function About() {
 							AA<span className="text-primary">.</span>
 						</p>
 						<p className="mt-4 font-display text-xl font-semibold">Arman Arfat</p>
-						<p className="mt-1 font-mono text-sm text-muted-foreground">frontend developer · react · next.js · tailwind</p>
+						<p className="mt-1 font-mono text-sm text-muted-foreground">Full-Stack Developer · React · Next.js · Tailwind CSS · MongoDB</p>
 						<div className="mt-8 flex items-end gap-2" aria-hidden="true">
 							{[40, 65, 50, 80, 60, 95, 75].map((h, i) => (
 								<span
@@ -52,12 +52,12 @@ export default function About() {
 					/>
 					<Reveal delay={0.1}>
 						<p className="mt-6 leading-relaxed text-muted-foreground">
-							I&apos;m Arman — a frontend web developer who partners with startups, agencies, and small businesses to turn
+							I&apos;m Arman — a Full-Stack web developer who partners with startups, agencies, and small businesses to turn
 							ideas into fast, polished web experiences. My focus is simple: interfaces that look great, load quickly,
 							and work flawlessly on every device.
 						</p>
 						<p className="mt-4 leading-relaxed text-muted-foreground">
-							From the first sketch to the final deploy, I keep communication clear and code clean — so you always know
+							From the first sketch to the final deploy, I keep communication clear and  clean code — so you always know
 							where your project stands and exactly what you&apos;re getting.
 						</p>
 					</Reveal>
